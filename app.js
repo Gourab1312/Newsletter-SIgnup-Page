@@ -59,7 +59,7 @@ app.post("/",function(req,res){
     });
 
     // we are using the .write function to send the mailchimp servers our json data const
-    // request.write(jsonData);
+    request.write(jsonData);
     request.end();
 });
 
