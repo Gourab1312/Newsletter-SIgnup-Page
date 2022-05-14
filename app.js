@@ -78,3 +78,9 @@ app.listen(process.env.PORT || 3000,function(){
 // 74661ac286 - audience id
 // https://usX.api.mailchimp.com/3.0/lists/74661ac286
 // x is to be replaced by the number after us in the api key , that basically specifies the us region 
+
+
+
+
+
+// https://quiet-mesa-78799.herokuapp.com/ - link to the heroku application
